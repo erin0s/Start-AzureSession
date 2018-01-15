@@ -2,6 +2,7 @@
 Adds an authenticated account to use for Azure Resource Manager cmdlet requests, while modifying global variables for PS prompt identification.  AzurePSDrive is also leveraged to allow for resource browsing.
 
 ## Getting Started
+Blog entry: (https://osminer.blogspot.com/2018/01/powershell-profile-and-azure-login.html)
 ```
 Start-AzureSession -l
 ```
